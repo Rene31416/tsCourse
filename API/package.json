@@ -1,0 +1,17 @@
+{
+  "name": "lambda-api",
+  "version": "1.0.0",
+  "description": "This is a project to learn how to deploy an API using a serverless function on aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "aws-sdk": "^2.1393.0",
+    "typescript": "^5.1.3"
+  }
+}
